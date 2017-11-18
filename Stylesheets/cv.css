@@ -1,0 +1,90 @@
+body {
+  background-color: #cacdd1; }
+
+.page-header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #ac64d1;
+  overflow: hidden;
+  width: 100%; }
+
+.page-header ul li {
+  float: left;
+  padding-right: 5px;
+  padding-left: 5px; }
+
+.page-header ul li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+  text-align: center;
+  width: 100%; }
+
+.page-header ul li a.active {
+  background-color: white;
+  color: black; }
+
+.page-header ul li a:hover:not(.active) {
+  background-color: #555;
+  color: white; }
+
+.background {
+  width: 100%; }
+
+.photo {
+  width: 100%;
+  margin-top: 10px; }
+
+.main {
+  text-align: center;
+  padding: 20px;
+  color: #542156; }
+
+.reuters {
+  border-top: 3px solid;
+  border-color: #b690cc; }
+
+.bank {
+  border-top: 3px solid;
+  border-color: #b690cc; }
+
+.ug {
+  border-top: 3px solid;
+  border-color: #b690cc; }
+
+h4 {
+  margin-top: 50px;
+  font-size: 1em; }
+
+.first {
+  font-size: 95%;
+  border-right: 3px solid;
+  border-color: #b690cc; }
+
+.contact {
+  list-style-type: none;
+  padding: 0; }
+
+span {
+  float: right; }
+
+a {
+  color: black; }
+
+footer {
+  width: 100%;
+  padding: 0;
+  text-align: center;
+  opacity: 0.8; }
+
+.icon {
+  padding-left: 150px;
+  padding-right: 150px; }
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 10%; } }
+
+/*# sourceMappingURL=cv.css.map */
