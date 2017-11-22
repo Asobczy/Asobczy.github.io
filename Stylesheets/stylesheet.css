@@ -47,13 +47,19 @@ footer {
   text-align: center;
   opacity: 0.8; }
 
-.icon {
-  padding-left: 150px;
-  padding-right: 150px; }
+/*.icon {
+  padding-left: 100px;
+  padding-right: 100px; }*/
 
 @media screen and (max-width: 600px) {
   body {
     font-size: 0.6em; } }
+
+
+/*@media screen and (max-width: 600px) {
+  footer {
+    width: 50%; } }*/
+
 #email {
   text-align: center; }
 
